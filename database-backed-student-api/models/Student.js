@@ -14,4 +14,4 @@ min: 0,
 max: 100
 }
 });
-module.exports = mongoose.model("Student", studentSchema);
+module.exports = mongoose.model("Student", studentSchema); 
